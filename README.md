@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adibPrasetiya
-- 👀 I’m interested in scripting
-- 🌱 I’m currently learning any programming
+- 👀 I’m interested in back end programming
+- 🌱 I’m currently learning JS, Node JS, Typscript
 - 📫 just meet me at jacobixjrex@gmail.com
 
 <!---
